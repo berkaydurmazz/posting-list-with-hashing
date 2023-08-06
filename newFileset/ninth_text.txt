@@ -1,0 +1,1 @@
+You may assume that there are only  files  Each file includes a paragraph in which words have been separated by space

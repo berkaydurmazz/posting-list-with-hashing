@@ -1,0 +1,1 @@
+Once the program receives an input word it generates its key index using a hashing function and then jumps to that index in the array and prints the content of all nodes of that linked list

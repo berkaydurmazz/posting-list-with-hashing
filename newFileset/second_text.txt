@@ -1,0 +1,1 @@
+kol bacak In order to avoid collision you may use a long array For conflict resolution use open address linear or quadratic probing

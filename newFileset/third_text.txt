@@ -1,0 +1,1 @@
+We are interested in a program which receives a word as input and prints the name of the documents in the whole file set which include that word The file set includes several text files as documents with a unique name Each file has several words or a paragraph You must create your own files and file set

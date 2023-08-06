@@ -1,0 +1,1 @@
+For implementation  all files and words should be read by your program at first to create a hash table array Each element in the array stores a linked list that corresponds to a word The nodes of the lists represent the files which include that word Lists nodes may  be sorted
